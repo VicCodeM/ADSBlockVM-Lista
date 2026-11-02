@@ -2,8 +2,8 @@
 ! Description: Anuncios, rastreadores y malware que ADSBlockVM bloquea en una red de casa real, con las reglas de su dueño. Se actualiza cada 3 días.
 ! Homepage: https://github.com/VicCodeM/ADSBlockVM-Lista
 ! Version: 2026.11.02
-! Last modified: 2026-11-02T10:39:19-06:00
-! Bloqueos: 486 · Excepciones: 52
+! Last modified: 2026-11-02T10:40:02-06:00
+! Bloqueos: 488 · Excepciones: 52
 ! Creado por Ing. Victor Maldonado - VMSofts
 !
 ! --- Bloqueos ---
@@ -101,6 +101,8 @@
 ||4c1ada26-cc1f-4bd8-b62e-29d9861850cd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4ed2a140-4907-4616-a63d-bb6ebdd3a7aa-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4ed2a140-4907-4616-a63d-bb6ebdd3a7aa-netseer-ipaddr-assoc.xz.fbcdn.net^
+||4f334714-086a-4c40-ac77-3310d9c946a2-netseer-ipaddr-assoc.xy.fbcdn.net^
+||4f334714-086a-4c40-ac77-3310d9c946a2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||508c3fc8-bd1d-4556-8fca-2690de09a0d1-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||508c3fc8-bd1d-4556-8fca-2690de09a0d1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||53k2no.tdum.alibaba.com^
