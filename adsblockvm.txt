@@ -2,8 +2,8 @@
 ! Description: Anuncios, rastreadores y malware que ADSBlockVM bloquea en una red de casa real, con las reglas de su dueño. Se actualiza cada 3 días.
 ! Homepage: https://github.com/VicCodeM/ADSBlockVM-Lista
 ! Version: 2026.11.02
-! Last modified: 2026-11-02T10:40:02-06:00
-! Bloqueos: 488 · Excepciones: 52
+! Last modified: 2026-11-02T14:26:16-06:00
+! Bloqueos: 517 · Excepciones: 52
 ! Creado por Ing. Victor Maldonado - VMSofts
 !
 ! --- Bloqueos ---
@@ -68,6 +68,8 @@
 ||346fd734-2524-4354-ae69-cd807d0c1f45-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||349ba827-cbdb-4e9a-a7d8-5f7e3c4c49bb-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||349ba827-cbdb-4e9a-a7d8-5f7e3c4c49bb-netseer-ipaddr-assoc.xz.fbcdn.net^
+||36adb054-08d8-4862-bc86-bf639cb3ae7d-netseer-ipaddr-assoc.xy.fbcdn.net^
+||36adb054-08d8-4862-bc86-bf639cb3ae7d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||37c5e526-09bd-4345-abfd-46aaddb34b11-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||37c5e526-09bd-4345-abfd-46aaddb34b11-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||38c89075-1552-47e9-9e73-70c7169265cc-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -99,12 +101,15 @@
 ||4b3c586a-a27b-439a-8a69-470b2e05aec4-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4c1ada26-cc1f-4bd8-b62e-29d9861850cd-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4c1ada26-cc1f-4bd8-b62e-29d9861850cd-netseer-ipaddr-assoc.xz.fbcdn.net^
+||4d828d9a-015c-44b3-b568-0dbe58b9b151-netseer-ipaddr-assoc.xy.fbcdn.net^
+||4d828d9a-015c-44b3-b568-0dbe58b9b151-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4ed2a140-4907-4616-a63d-bb6ebdd3a7aa-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4ed2a140-4907-4616-a63d-bb6ebdd3a7aa-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4f334714-086a-4c40-ac77-3310d9c946a2-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4f334714-086a-4c40-ac77-3310d9c946a2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||508c3fc8-bd1d-4556-8fca-2690de09a0d1-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||508c3fc8-bd1d-4556-8fca-2690de09a0d1-netseer-ipaddr-assoc.xz.fbcdn.net^
+||50ea7385-afb8-46c2-aca8-a171cca2963d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||53k2no.tdum.alibaba.com^
 ||542c81be-dfbf-4bb1-b070-5f3a2f22d057-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||542c81be-dfbf-4bb1-b070-5f3a2f22d057-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -115,7 +120,10 @@
 ||573k0n.tdum.alibaba.com^
 ||5a8e374a-1aab-4c10-b422-208c4861199c-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||5a8e374a-1aab-4c10-b422-208c4861199c-netseer-ipaddr-assoc.xz.fbcdn.net^
+||5bbcbef3-f05a-4778-9ac1-3497d98854ba-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||5e529.v.fwmrm.net^
+||5e7cc006-cdbd-4e1f-bf87-f287f8bd478d-netseer-ipaddr-assoc.xy.fbcdn.net^
+||5e7cc006-cdbd-4e1f-bf87-f287f8bd478d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||5fe2c77c-78d8-4eb7-94c8-5d780a0d2111-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||5fe2c77c-78d8-4eb7-94c8-5d780a0d2111-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||607dbdc3-466c-4b47-a8e7-078c78b31e71-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -127,6 +135,8 @@
 ||63e3d925-223d-4218-a5d5-9586f62d78f6-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||63e3d925-223d-4218-a5d5-9586f62d78f6-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||63iq8p.tdum.alibaba.com^
+||647a0eaf-0a9e-4902-8fae-787958bb18a6-netseer-ipaddr-assoc.xy.fbcdn.net^
+||647a0eaf-0a9e-4902-8fae-787958bb18a6-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||6527c0ed-86ac-4aac-8421-54ad7ab6a5d2-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||6527c0ed-86ac-4aac-8421-54ad7ab6a5d2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||660a7ad8-f48d-4ee1-98f8-6b9e2dcb6e2d-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -141,10 +151,14 @@
 ||67effb09-f3ba-4d96-8a89-e5757c5507ab-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||69d99df9-a679-437a-85bf-3efa0ed8e4e1-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||69d99df9-a679-437a-85bf-3efa0ed8e4e1-netseer-ipaddr-assoc.xz.fbcdn.net^
+||6c5c18d9-331b-4c9f-9874-cf4d6da0dbd6-netseer-ipaddr-assoc.xy.fbcdn.net^
+||6c5c18d9-331b-4c9f-9874-cf4d6da0dbd6-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||6d6dab93-f31d-4cc4-b547-b406288f7880-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||6d6dab93-f31d-4cc4-b547-b406288f7880-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||6edd3cba-de67-4074-a0c7-39f6b2a63ad4-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||6edd3cba-de67-4074-a0c7-39f6b2a63ad4-netseer-ipaddr-assoc.xz.fbcdn.net^
+||75c6298e-d7ae-4e9b-90fb-ea7eb0102cb2-netseer-ipaddr-assoc.xy.fbcdn.net^
+||75c6298e-d7ae-4e9b-90fb-ea7eb0102cb2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||7b65d72c-c78c-4136-b32d-e13e6f8fcd5a-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||7b65d72c-c78c-4136-b32d-e13e6f8fcd5a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||7db0b939-932d-401a-9192-3a0792a6a087-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -183,8 +197,12 @@
 ||96503113-9fb3-4fa8-bf8f-a47b4cade2a4-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||969b73d2-e705-40c5-8a92-17445df45e93-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||969b73d2-e705-40c5-8a92-17445df45e93-netseer-ipaddr-assoc.xz.fbcdn.net^
+||97f09caa-eb53-4c1e-886d-cd86d0938dfb-netseer-ipaddr-assoc.xy.fbcdn.net^
+||97f09caa-eb53-4c1e-886d-cd86d0938dfb-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||982844db-6599-46c4-ab49-4b24691af62a-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||982844db-6599-46c4-ab49-4b24691af62a-netseer-ipaddr-assoc.xz.fbcdn.net^
+||9b7a679b-e497-47b7-9044-a42438665dd9-netseer-ipaddr-assoc.xy.fbcdn.net^
+||9b7a679b-e497-47b7-9044-a42438665dd9-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||9d2328ac-3b17-42ad-9ef1-2d7423746c3e-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||9d2328ac-3b17-42ad-9ef1-2d7423746c3e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||9ef5fca0-4313-4782-a3b6-0b098ed0cd02-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -222,6 +240,7 @@
 ||amplitude.life360.com^
 ||analytics.adjust.com^
 ||analytics.adjust.io^
+||api.statsig.com^
 ||api16-access-ttp-b.tiktokpangle-b.us^
 ||api16-access-ttp-b.tiktokpangle.us^
 ||api16-access-ttp.tiktokpangle-b.us^
@@ -294,6 +313,7 @@
 ||conn-service-us-04.allawnos.com^
 ||conn-service-us-05.allawnos.com^
 ||cota-service-sg.allawnos.com^
+||crashlogs.whatsapp.net^
 ||crashlyticsreports-pa.googleapis.com^
 ||customerevents.netflix.com^
 ||d1tru86qrby720.cloudfront.net^
@@ -310,11 +330,14 @@
 ||da222a36-0126-4482-93c3-cc6e1dc11e11-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||data.syncthing.net^
 ||dc-dragate-sg.heytapmobile.com^
+||dc3cb425-0a22-4879-8138-8bcc0e533685-netseer-ipaddr-assoc.xy.fbcdn.net^
+||dc3cb425-0a22-4879-8138-8bcc0e533685-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||dc6e50f0-624c-4ffe-bc38-8aba11677799-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||dc6e50f0-624c-4ffe-bc38-8aba11677799-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||dcccf5f0-b5fb-4811-8f18-f2577938bdca-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||dcccf5f0-b5fb-4811-8f18-f2577938bdca-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||default.exp-tas.com^
+||df842ebb-f90a-4387-8aaf-8454e4b09a69-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||display.ravm.tv^
 ||dit.whatsapp.net^
 ||dls.di.atlas.samsung.com^
@@ -343,6 +366,7 @@
 ||etahub.com^
 ||event-us.ssp.taxssp.com^
 ||events.swishapps.ai^
+||exo.nel.measure.office.net^
 ||experiments.apple.com^
 ||f009b3f5-1b83-49a9-ad5e-21abf4e5a12d-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||f009b3f5-1b83-49a9-ad5e-21abf4e5a12d-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -373,6 +397,7 @@
 ||http-intake.logs.us5.datadoghq.com^
 ||i-sdk.mediation.unity3d.com^
 ||ichnaea.netflix.com^
+||identity.ads.roku.com^
 ||ilockcardf.apps.coloros.com^
 ||in.appcenter.ms^
 ||infoevent.startappservice.com^
@@ -386,6 +411,7 @@
 ||logs.netflix.com^
 ||m365cdn.nel.measure.office.net^
 ||mbgc-c-3-3-8.telemetry.malwarebytes.com^
+||mc.yandex.ru^
 ||mdp-appconf-mx.heytapdl.com^
 ||mdp-appconf-sg.heytapdl.com^
 ||mdp-usertrace-sg.heytapmobile.com^
@@ -408,6 +434,7 @@
 ||o-sdk.mediation.unity3d.com^
 ||o11y-proxy-otel-frontend.meli.com^
 ||o33249.ingest.us.sentry.io^
+||o4506435887824896.ingest.sentry.io^
 ||obus-dc20123-sg.heytapmobile.com^
 ||obus-dctech-sg.heytapmobile.com^
 ||obus-sg.dc.heytapmobile.com^
@@ -459,6 +486,7 @@
 ||static.criteo.net^
 ||static.doubleclick.net^
 ||static.trafficjunky.com^
+||statsigapi.net^
 ||stg-data-f.ads.heytapmobile.com^
 ||tags.creativecdn.com^
 ||teams.events.data.microsoft.com^
@@ -486,6 +514,7 @@
 ||vulcan5.branch.io^
 ||warp90.com^
 ||watson.events.data.microsoft.com^
+||www.google-analytics.com^
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
 ||www.srmdata.com^
