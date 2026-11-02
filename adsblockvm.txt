@@ -2,7 +2,7 @@
 ! Description: Anuncios, rastreadores y malware que ADSBlockVM bloquea en una red de casa real, con las reglas de su dueño. Se actualiza cada 3 días.
 ! Homepage: https://github.com/VicCodeM/ADSBlockVM-Lista
 ! Version: 2026.11.02
-! Last modified: 2026-11-02T10:39:17-06:00
+! Last modified: 2026-11-02T10:39:19-06:00
 ! Bloqueos: 486 · Excepciones: 52
 ! Creado por Ing. Victor Maldonado - VMSofts
 !
