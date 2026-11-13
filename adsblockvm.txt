@@ -1,9 +1,9 @@
 ! Title: ADSBlockVM - Lista propia
 ! Description: Anuncios, rastreadores y malware que ADSBlockVM bloquea en una red de casa real, con las reglas de su dueño. Se actualiza cada día.
 ! Homepage: https://github.com/VicCodeM/ADSBlockVM-Lista
-! Version: 2026.11.12
-! Last modified: 2026-11-12T12:30:02-06:00
-! Bloqueos: 4656 · Excepciones: 123
+! Version: 2026.11.13
+! Last modified: 2026-11-13T12:35:02-06:00
+! Bloqueos: 4916 · Excepciones: 125
 ! Creado por Ing. Victor Maldonado - VMSofts
 !
 ! --- Bloqueos ---
@@ -50,6 +50,8 @@
 ||0219deee-459a-47f9-95b4-38bab395b7fe-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0256d758-6d54-49a1-be53-ef663d26eaa9-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||0256d758-6d54-49a1-be53-ef663d26eaa9-netseer-ipaddr-assoc.xz.fbcdn.net^
+||027a433e-614c-44d6-9153-0df9fee09f93-netseer-ipaddr-assoc.xy.fbcdn.net^
+||027a433e-614c-44d6-9153-0df9fee09f93-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||028f502c-0f48-46f2-97fb-2493b81273de-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||028f502c-0f48-46f2-97fb-2493b81273de-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||02afb46b-43d5-47ea-9af9-43fc1ee7483a-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -141,6 +143,8 @@
 ||0795beff-c6cf-4d65-9e59-e1a76c4e9b6f-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||07ea6f06-66f1-471e-b367-f8116235bd0e-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||07ea6f06-66f1-471e-b367-f8116235bd0e-netseer-ipaddr-assoc.xz.fbcdn.net^
+||08107e71-1908-4875-87ca-0acf79139ce7-netseer-ipaddr-assoc.xy.fbcdn.net^
+||08107e71-1908-4875-87ca-0acf79139ce7-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||081864fb-43eb-426f-8e4d-c6bbc67624b0-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||081864fb-43eb-426f-8e4d-c6bbc67624b0-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||08237f05-3118-485b-adae-a6b31ca5e9a5-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -183,6 +187,8 @@
 ||0ad35137-8f9d-433b-9238-bba8f637d186-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0add30a5-f012-43ba-a030-fb9676e61ada-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||0add30a5-f012-43ba-a030-fb9676e61ada-netseer-ipaddr-assoc.xz.fbcdn.net^
+||0af7af4f-cdd7-4207-a84d-2e8dffcc6047-netseer-ipaddr-assoc.xy.fbcdn.net^
+||0af7af4f-cdd7-4207-a84d-2e8dffcc6047-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0b1035a3-aa6d-4ccd-a3d3-ca62158df0e0-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||0b1035a3-aa6d-4ccd-a3d3-ca62158df0e0-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0b514921-0cf2-469d-86a3-cc174693fbb7-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -195,6 +201,8 @@
 ||0bb7eaf7-3bc1-459c-abcc-e18ba6f1121a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0be4dba3-2615-433a-a3e8-279e01f55986-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||0be4dba3-2615-433a-a3e8-279e01f55986-netseer-ipaddr-assoc.xz.fbcdn.net^
+||0c2282c9-ed8f-4010-b8de-8f24db6d27b0-netseer-ipaddr-assoc.xy.fbcdn.net^
+||0c2282c9-ed8f-4010-b8de-8f24db6d27b0-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0c341686-c0ea-4bdc-b747-dc38ad366b9a-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||0c341686-c0ea-4bdc-b747-dc38ad366b9a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0ca9c0df-9f6f-47db-be88-fc2d6259b0b8-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -207,6 +215,8 @@
 ||0d70cb35-ccc3-495c-8682-57748a041aaf-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0d785a8f-f2c5-4128-8871-20764afe80d3-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||0d785a8f-f2c5-4128-8871-20764afe80d3-netseer-ipaddr-assoc.xz.fbcdn.net^
+||0d9b832f-2c21-4b5d-b710-d41a88ecbddb-netseer-ipaddr-assoc.xy.fbcdn.net^
+||0d9b832f-2c21-4b5d-b710-d41a88ecbddb-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0d9faefa-3874-4aa2-ab58-72e9fb866025-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||0d9faefa-3874-4aa2-ab58-72e9fb866025-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0da94c93-6f91-40af-8509-004a0500ac70-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -217,6 +227,8 @@
 ||0e193de3-0e02-41e4-a6cc-2b1176dc0fb3-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0e662857-a47c-4bf0-8a08-d06a60a1ab4b-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||0e662857-a47c-4bf0-8a08-d06a60a1ab4b-netseer-ipaddr-assoc.xz.fbcdn.net^
+||0e7942ce-8243-46eb-a9d4-71a8181a8689-netseer-ipaddr-assoc.xy.fbcdn.net^
+||0e7942ce-8243-46eb-a9d4-71a8181a8689-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0e980873-f045-4184-a85b-0c39d7dcb9c5-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||0e980873-f045-4184-a85b-0c39d7dcb9c5-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||0eb39dbe-e35d-4c46-9fc4-532ddbe5965f-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -258,6 +270,8 @@
 ||110b6a21-12ee-4eb2-be78-a9105f6ca536-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||111ad1fe-942e-40b4-a05b-f6da4cfe5455-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||111ad1fe-942e-40b4-a05b-f6da4cfe5455-netseer-ipaddr-assoc.xz.fbcdn.net^
+||1156427f-3bca-45b8-8790-ec8cf8469755-netseer-ipaddr-assoc.xy.fbcdn.net^
+||1156427f-3bca-45b8-8790-ec8cf8469755-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||11a818ef-b485-496a-9605-a086fca486a6-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||11a818ef-b485-496a-9605-a086fca486a6-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||11e8f124-eb14-4d41-a9d5-991c8995ef27-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -275,6 +289,8 @@
 ||12f60289-a0ad-4e60-9c67-8caff9f124de-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||13214ba0-e7df-44c3-832b-099dbbdb56ed-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||13214ba0-e7df-44c3-832b-099dbbdb56ed-netseer-ipaddr-assoc.xz.fbcdn.net^
+||1327347f-494c-4e49-9e0c-578dc4e40a8e-netseer-ipaddr-assoc.xy.fbcdn.net^
+||1327347f-494c-4e49-9e0c-578dc4e40a8e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||132fbd87-fded-4dc9-ab5b-418aeb5845bd-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||132fbd87-fded-4dc9-ab5b-418aeb5845bd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||135f20e2-f71d-4024-9c50-881d21e24e4f-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -293,6 +309,8 @@
 ||13cdae85-7582-4e6d-9f98-3351059dd03d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||13e626d3-5cdc-485c-aad5-ec008c9c8019-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||13e626d3-5cdc-485c-aad5-ec008c9c8019-netseer-ipaddr-assoc.xz.fbcdn.net^
+||1403a186-a94c-4041-b05c-3057bb91f619-netseer-ipaddr-assoc.xy.fbcdn.net^
+||1403a186-a94c-4041-b05c-3057bb91f619-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||140f42b2-c69a-4bd8-8b19-589ee14138dd-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||140f42b2-c69a-4bd8-8b19-589ee14138dd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||141abfd9-6f81-4865-9b08-620c04fad39e-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -316,8 +334,14 @@
 ||14a291f2-3171-49d7-b0d0-cfe3fb3c8840-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||14a291f2-3171-49d7-b0d0-cfe3fb3c8840-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||14a2eeef-c9c5-4f5d-a835-3a8579bdea5b.edge.permutive.app^
+||14a688e2-b09d-4e57-90f6-a45dc6475194-netseer-ipaddr-assoc.xy.fbcdn.net^
+||14a688e2-b09d-4e57-90f6-a45dc6475194-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||14d0f207-44c0-4004-9ce4-70011119e854-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||14d0f207-44c0-4004-9ce4-70011119e854-netseer-ipaddr-assoc.xz.fbcdn.net^
+||14d37139-0e3d-412f-98a4-3336b44a8723-netseer-ipaddr-assoc.xy.fbcdn.net^
+||14d37139-0e3d-412f-98a4-3336b44a8723-netseer-ipaddr-assoc.xz.fbcdn.net^
+||150a8018-a11e-4f15-8569-be822be968bb-netseer-ipaddr-assoc.xy.fbcdn.net^
+||150a8018-a11e-4f15-8569-be822be968bb-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1569fdba-58f5-4450-af6f-f84595e101d2-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||1569fdba-58f5-4450-af6f-f84595e101d2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||15965e3c-8e2b-49ee-8a0b-bac4b7bf2657-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -350,6 +374,12 @@
 ||16f907c8-4116-40a4-b162-3772f372889b-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1729915e-f8f0-4019-9357-b00259f762b1-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||1729915e-f8f0-4019-9357-b00259f762b1-netseer-ipaddr-assoc.xz.fbcdn.net^
+||172bb920-815b-4563-8dad-8c4eb61da1b4-netseer-ipaddr-assoc.xy.fbcdn.net^
+||172bb920-815b-4563-8dad-8c4eb61da1b4-netseer-ipaddr-assoc.xz.fbcdn.net^
+||1759ffad-e6c0-423d-94e5-85b03d3188a8-netseer-ipaddr-assoc.xy.fbcdn.net^
+||1759ffad-e6c0-423d-94e5-85b03d3188a8-netseer-ipaddr-assoc.xz.fbcdn.net^
+||17d16660-8482-4e0b-9518-25b8d0b2696d-netseer-ipaddr-assoc.xy.fbcdn.net^
+||17d16660-8482-4e0b-9518-25b8d0b2696d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||17ef4306-f825-493a-aa22-3281524a9d92-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||17ef4306-f825-493a-aa22-3281524a9d92-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||17fc932d-7442-43e9-b55f-70631f14e1e3-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -388,6 +418,8 @@
 ||1a93c5a6-4c7b-4a44-9b6a-19e49a275e67-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1a96e62b-3d5b-4be4-b7f5-3ca88cfc49c6-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||1a96e62b-3d5b-4be4-b7f5-3ca88cfc49c6-netseer-ipaddr-assoc.xz.fbcdn.net^
+||1ae1f916-acc3-4923-8378-91508b7c4562-netseer-ipaddr-assoc.xy.fbcdn.net^
+||1ae1f916-acc3-4923-8378-91508b7c4562-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1b10c65d-ad53-42c6-8027-0d1be4dfe980-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||1b10c65d-ad53-42c6-8027-0d1be4dfe980-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1b3591a4-7cf3-440c-9b04-50be0f16678e-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -448,6 +480,8 @@
 ||1ded1845-0b26-43c0-9781-69149830f651-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1df1d06d-5e7d-45c2-812c-b15b25c015fa-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||1df1d06d-5e7d-45c2-812c-b15b25c015fa-netseer-ipaddr-assoc.xz.fbcdn.net^
+||1e0cbadd-e507-4f02-8ec4-0525d69fcca7-netseer-ipaddr-assoc.xy.fbcdn.net^
+||1e0cbadd-e507-4f02-8ec4-0525d69fcca7-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1e5350a4-b930-4469-b73d-7de23ec6791e-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||1e5350a4-b930-4469-b73d-7de23ec6791e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1e5c2834-f8eb-4984-ba46-e53ba5184593-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -464,6 +498,8 @@
 ||1f1a187c-7f34-4940-af44-cd0ffe6470e9-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1f1c0121-a06c-476b-a7e2-a40485c86f7f-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||1f1c0121-a06c-476b-a7e2-a40485c86f7f-netseer-ipaddr-assoc.xz.fbcdn.net^
+||1f217fe2-7e46-4435-9d92-b86973db338a-netseer-ipaddr-assoc.xy.fbcdn.net^
+||1f217fe2-7e46-4435-9d92-b86973db338a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1f360498-1bc8-47ee-a0ca-da1aafa95d63-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||1f360498-1bc8-47ee-a0ca-da1aafa95d63-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||1f7e3f63-3fd3-4ed5-a77a-39f53a81c2a0-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -497,6 +533,8 @@
 ||20a17165-5480-46bc-a785-2a5a6dbcae51-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||20be2a44-8bd7-47c2-a2c9-7720f2863cd2-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||20be2a44-8bd7-47c2-a2c9-7720f2863cd2-netseer-ipaddr-assoc.xz.fbcdn.net^
+||20cc117e-ca49-4d80-90d8-e62cb21c6cb2-netseer-ipaddr-assoc.xy.fbcdn.net^
+||20cc117e-ca49-4d80-90d8-e62cb21c6cb2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||210a6a35-cc7d-4fb4-b95d-fdcc0c499282-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||210a6a35-cc7d-4fb4-b95d-fdcc0c499282-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||213ddcf6-60d7-4c9e-ad68-e2abb880f352-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -509,6 +547,8 @@
 ||216c0890-ebfb-4aa5-91d1-9ee7feb6175f-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||2175f22c-81a7-4686-8d4d-452066aae997-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||2175f22c-81a7-4686-8d4d-452066aae997-netseer-ipaddr-assoc.xz.fbcdn.net^
+||217ba145-bb94-48b6-8b8f-3ee7e6e7b3f0-netseer-ipaddr-assoc.xy.fbcdn.net^
+||217ba145-bb94-48b6-8b8f-3ee7e6e7b3f0-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||2197d959-b734-4c50-a80b-a3e14aeb312c-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||2197d959-b734-4c50-a80b-a3e14aeb312c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||21ad90ca-fd7c-4587-8c02-caa947a6980d-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -587,6 +627,8 @@
 ||26fb2aa6-0073-4b89-acb5-2054a17560e9-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||26fd0331-fbf7-4e2e-860e-386ada429c85-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||26fd0331-fbf7-4e2e-860e-386ada429c85-netseer-ipaddr-assoc.xz.fbcdn.net^
+||2712e5fd-d302-487d-b8f8-d84b1d922c72-netseer-ipaddr-assoc.xy.fbcdn.net^
+||2712e5fd-d302-487d-b8f8-d84b1d922c72-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||275af3a2-daca-44b9-a22f-c3af9276d934-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||275af3a2-daca-44b9-a22f-c3af9276d934-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||27607f6b-961b-444b-8d03-df89b8e67d8a-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -632,6 +674,8 @@
 ||29361f10-83d8-49e6-aace-ab8b4f16595a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||29520b45-4c09-4fde-a034-18e737c11d0f-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||29520b45-4c09-4fde-a034-18e737c11d0f-netseer-ipaddr-assoc.xz.fbcdn.net^
+||29791b18-5123-45f4-b1cb-47b755485b5b-netseer-ipaddr-assoc.xy.fbcdn.net^
+||29791b18-5123-45f4-b1cb-47b755485b5b-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||299d3121-cadb-4a12-8f3e-563448e212fd-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||299d3121-cadb-4a12-8f3e-563448e212fd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||29cf4ee7-bc51-4c5d-8b8d-08c06c85289d-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -656,10 +700,14 @@
 ||2ae1dda4-faa8-4814-ae1d-eb2e132fe165-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||2aff66c4-5e71-4fcf-a8f7-312864dbdccc-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||2aff66c4-5e71-4fcf-a8f7-312864dbdccc-netseer-ipaddr-assoc.xz.fbcdn.net^
+||2b1d21a7-5967-4287-b6e6-ba95c23e276e-netseer-ipaddr-assoc.xy.fbcdn.net^
+||2b1d21a7-5967-4287-b6e6-ba95c23e276e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||2b26f570-709e-4691-9f35-6ff90517a152-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||2b26f570-709e-4691-9f35-6ff90517a152-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||2b2bc71e-6f1c-4ca7-8f71-9cffb7fbd1e9-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||2b2bc71e-6f1c-4ca7-8f71-9cffb7fbd1e9-netseer-ipaddr-assoc.xz.fbcdn.net^
+||2b2ede4b-1044-45d0-9512-5bc944b7c5a6-netseer-ipaddr-assoc.xy.fbcdn.net^
+||2b2ede4b-1044-45d0-9512-5bc944b7c5a6-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||2b8af4ec-4c22-4c91-becf-467cbaf18342-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||2b8af4ec-4c22-4c91-becf-467cbaf18342-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||2bb5628a-d5a1-4a28-b979-6cc66c558f90-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -709,8 +757,12 @@
 ||2f70772f-3a08-472d-b17b-cd97c910fd99-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||2f8dc590-5559-429a-a7e0-e8c16974a962-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||2f8dc590-5559-429a-a7e0-e8c16974a962-netseer-ipaddr-assoc.xz.fbcdn.net^
+||2f9fed5d-7bd0-4c06-ad35-9b18db60108b-netseer-ipaddr-assoc.xy.fbcdn.net^
+||2f9fed5d-7bd0-4c06-ad35-9b18db60108b-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||2fcb516f-33b6-43ef-a58e-6e6a216c841c-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||2fcb516f-33b6-43ef-a58e-6e6a216c841c-netseer-ipaddr-assoc.xz.fbcdn.net^
+||2fddb566-a214-4417-b6e3-2a7c8fe11959-netseer-ipaddr-assoc.xy.fbcdn.net^
+||2fddb566-a214-4417-b6e3-2a7c8fe11959-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3.datadog.pool.ntp.org^
 ||300c658a-acea-493c-b381-196219249418-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||300c658a-acea-493c-b381-196219249418-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -758,6 +810,8 @@
 ||33686cde6ffd73237f129f944db8590819745065.ipv6.cws.conviva.com^
 ||337342ec-7b9d-41f5-a132-060725063338-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||337342ec-7b9d-41f5-a132-060725063338-netseer-ipaddr-assoc.xz.fbcdn.net^
+||3377f258-ba53-486a-ba35-591af3928460-netseer-ipaddr-assoc.xy.fbcdn.net^
+||3377f258-ba53-486a-ba35-591af3928460-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||337fdafd-269e-4cc9-b86b-12ba488cfc51-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||337fdafd-269e-4cc9-b86b-12ba488cfc51-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||338ade8c-7d2c-4949-9b1e-692f4d708ae6-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -841,6 +895,8 @@
 ||38c89075-1552-47e9-9e73-70c7169265cc-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||395b9b89-e2ff-4575-9e9a-8aa2a4ca7642-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||395b9b89-e2ff-4575-9e9a-8aa2a4ca7642-netseer-ipaddr-assoc.xz.fbcdn.net^
+||395bd120-2b5d-40d5-89fa-5c589bc23f4e-netseer-ipaddr-assoc.xy.fbcdn.net^
+||395bd120-2b5d-40d5-89fa-5c589bc23f4e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||39696bb8-6fea-4dfc-9133-5391113d4a5c-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||39696bb8-6fea-4dfc-9133-5391113d4a5c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||396d2b80-94d0-419e-8e16-4a27f863b017-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -871,10 +927,14 @@
 ||3b1a3e56-c4e2-4ee3-b629-a9ddbd5b8935-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3b41f741-230a-49f8-8594-0b025003fa06-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||3b41f741-230a-49f8-8594-0b025003fa06-netseer-ipaddr-assoc.xz.fbcdn.net^
+||3b5fe561-b9f8-4fd9-ab4e-1e6b459657d1-netseer-ipaddr-assoc.xy.fbcdn.net^
+||3b5fe561-b9f8-4fd9-ab4e-1e6b459657d1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3b63990c-9133-485a-a0ee-633f1bfcf3f5-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||3b63990c-9133-485a-a0ee-633f1bfcf3f5-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3b6fc102-b63a-4039-9112-b6aa058a3ad8-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||3b6fc102-b63a-4039-9112-b6aa058a3ad8-netseer-ipaddr-assoc.xz.fbcdn.net^
+||3b932d1c-a7f8-490b-a2dc-42977a38de97-netseer-ipaddr-assoc.xy.fbcdn.net^
+||3b932d1c-a7f8-490b-a2dc-42977a38de97-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3bc47a88-2f09-4bb0-a443-ce36cb0d93b9-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||3bc47a88-2f09-4bb0-a443-ce36cb0d93b9-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3bc8789a-a133-4f24-950f-2fecf618d174-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -897,6 +957,8 @@
 ||3c709d57-d0b2-40cc-9c28-bf2089c07b40-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3ccb1238-d974-4db4-a2c7-c8f7bf897021-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||3ccb1238-d974-4db4-a2c7-c8f7bf897021-netseer-ipaddr-assoc.xz.fbcdn.net^
+||3d202640-c909-4786-a92e-1a2e123c0b3d-netseer-ipaddr-assoc.xy.fbcdn.net^
+||3d202640-c909-4786-a92e-1a2e123c0b3d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3d32a5ab-3b1b-437a-8b85-ab799cfdebac-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||3d32a5ab-3b1b-437a-8b85-ab799cfdebac-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3db312d8-71e7-417a-a472-d0911971008a-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -913,6 +975,8 @@
 ||3e96320b-38a2-4927-b5db-b8a375893843-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3ea8f080-12ef-4eff-9d76-4ec3a80be3c4-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||3ea8f080-12ef-4eff-9d76-4ec3a80be3c4-netseer-ipaddr-assoc.xz.fbcdn.net^
+||3eb2518b-3284-4746-8658-82e600b4b7a3-netseer-ipaddr-assoc.xy.fbcdn.net^
+||3eb2518b-3284-4746-8658-82e600b4b7a3-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3ec016a8-efdd-465f-a1be-50a3b08c0397-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||3ec016a8-efdd-465f-a1be-50a3b08c0397-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3ee863b7-487d-46a8-bb11-3d0045384c23-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -923,6 +987,8 @@
 ||3f4e4552-de2e-432e-a9c6-c5701b0cf2b5-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3f6ab317-408a-4256-af72-e40684596489-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||3f6ab317-408a-4256-af72-e40684596489-netseer-ipaddr-assoc.xz.fbcdn.net^
+||3febc41d-e960-4de7-bca6-f9f17474aebc-netseer-ipaddr-assoc.xy.fbcdn.net^
+||3febc41d-e960-4de7-bca6-f9f17474aebc-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3ffed0f4-47dc-4f38-aea0-0bf0b1224240-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||3ffed0f4-47dc-4f38-aea0-0bf0b1224240-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||3iqt6u.tdum.alibaba.com^
@@ -946,6 +1012,8 @@
 ||41217312-d5d1-45ad-b717-7b5d1d78f5b3-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4121a184-e0cf-40db-84be-09b32d974f52-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4121a184-e0cf-40db-84be-09b32d974f52-netseer-ipaddr-assoc.xz.fbcdn.net^
+||412db002-b61c-4afd-a3e7-364bc55ad679-netseer-ipaddr-assoc.xy.fbcdn.net^
+||412db002-b61c-4afd-a3e7-364bc55ad679-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4145029c-26be-4583-bce1-c192c0e6d21c-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4145029c-26be-4583-bce1-c192c0e6d21c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||419785c2-82d7-4718-8b0d-9814485d9c6d-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1023,6 +1091,8 @@
 ||4636eac8-79ce-43bb-8085-8c9fe8061ff1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||468662ad-1ab2-4b6f-824f-2c15bd7ae601-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||468662ad-1ab2-4b6f-824f-2c15bd7ae601-netseer-ipaddr-assoc.xz.fbcdn.net^
+||46922cf0-f2d2-47de-a781-0ddf8000d50e-netseer-ipaddr-assoc.xy.fbcdn.net^
+||46922cf0-f2d2-47de-a781-0ddf8000d50e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||46f6c9d4-0738-443a-ad7f-a5aaa40a5274-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||46f6c9d4-0738-443a-ad7f-a5aaa40a5274-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4700a383-b02b-4a85-aec6-d05d60028044-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1033,6 +1103,8 @@
 ||470ade42-92c8-4143-8fdb-6ad9d5833dda-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||47285f73-1751-4262-8c90-329fbdfed68b-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||47285f73-1751-4262-8c90-329fbdfed68b-netseer-ipaddr-assoc.xz.fbcdn.net^
+||47360f52-d110-45e7-96c5-f1e7db5e069c-netseer-ipaddr-assoc.xy.fbcdn.net^
+||47360f52-d110-45e7-96c5-f1e7db5e069c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||473da99a-9aa8-4d6e-836b-addab8c5cf0d-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||473da99a-9aa8-4d6e-836b-addab8c5cf0d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||476ebea9-eea5-4722-956e-39d72b625dce-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1047,6 +1119,8 @@
 ||47bbe5ff-a852-4994-99d5-3a4db61422d4-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4822744f-f009-4462-894b-24a2439d7792-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4822744f-f009-4462-894b-24a2439d7792-netseer-ipaddr-assoc.xz.fbcdn.net^
+||4826753a-a88b-4a63-8b9c-4ac8522520a5-netseer-ipaddr-assoc.xy.fbcdn.net^
+||4826753a-a88b-4a63-8b9c-4ac8522520a5-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4856b909-7064-4bbe-a064-ea4ab36a3942-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4856b909-7064-4bbe-a064-ea4ab36a3942-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4879d19c-21ea-40a6-9fa5-f4f1744795fa-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1060,6 +1134,8 @@
 ||48f1d11e-98a8-4349-a141-17cb3b634b5b-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||490ea033-ef76-40d9-af7b-e4a56bcd9a7f-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||490ea033-ef76-40d9-af7b-e4a56bcd9a7f-netseer-ipaddr-assoc.xz.fbcdn.net^
+||491b9282-431a-4972-8d97-83326b137e80-netseer-ipaddr-assoc.xy.fbcdn.net^
+||491b9282-431a-4972-8d97-83326b137e80-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4920200c-7244-4892-af06-637d10c66f70-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4920200c-7244-4892-af06-637d10c66f70-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4928b140-fa39-446d-b2e6-e12f071c035a-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1090,6 +1166,8 @@
 ||4a882a86-4369-467f-ac8c-aba0c5335ebe-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4aaf61bf-7f46-4831-9d05-8c3fafef3228-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4aaf61bf-7f46-4831-9d05-8c3fafef3228-netseer-ipaddr-assoc.xz.fbcdn.net^
+||4ab283b2-0b4d-498b-a351-9cb58c4bef65-netseer-ipaddr-assoc.xy.fbcdn.net^
+||4ab283b2-0b4d-498b-a351-9cb58c4bef65-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4af0f035-ba38-460c-8a5c-c9200f226356-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4af0f035-ba38-460c-8a5c-c9200f226356-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4af5311c-3515-4a76-b5e9-57c45e24132e-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1102,12 +1180,16 @@
 ||4b3c586a-a27b-439a-8a69-470b2e05aec4-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4b52e83b-8089-4a0e-be91-65748b409a79-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4b52e83b-8089-4a0e-be91-65748b409a79-netseer-ipaddr-assoc.xz.fbcdn.net^
+||4b61ff0b-e2a9-4804-aff3-8543d2de5352-netseer-ipaddr-assoc.xy.fbcdn.net^
+||4b61ff0b-e2a9-4804-aff3-8543d2de5352-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4b7a84bc-3f47-43f0-983d-38f3f632e212-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4b7a84bc-3f47-43f0-983d-38f3f632e212-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4b946792-78fe-42ec-ae39-50b783e175f2-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4b946792-78fe-42ec-ae39-50b783e175f2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4b9a4bcb-a6ad-44c6-91aa-703d3ab8c15e-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4b9a4bcb-a6ad-44c6-91aa-703d3ab8c15e-netseer-ipaddr-assoc.xz.fbcdn.net^
+||4bb1ecf2-4d42-44bf-a989-befd2fc09f7e-netseer-ipaddr-assoc.xy.fbcdn.net^
+||4bb1ecf2-4d42-44bf-a989-befd2fc09f7e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4c1ada26-cc1f-4bd8-b62e-29d9861850cd-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4c1ada26-cc1f-4bd8-b62e-29d9861850cd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4c1d5430-89f3-4d72-8032-5416cec22628-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1128,6 +1210,8 @@
 ||4d2f495d-4377-4ab5-9992-6d961af5c738-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4d39cc9c-d62b-4aa0-8a37-61c362de2379-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4d39cc9c-d62b-4aa0-8a37-61c362de2379-netseer-ipaddr-assoc.xz.fbcdn.net^
+||4d68868f-8827-4f93-8fa5-ddcf6f9969ed-netseer-ipaddr-assoc.xy.fbcdn.net^
+||4d68868f-8827-4f93-8fa5-ddcf6f9969ed-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4d6c728f-05d4-4a50-b4b6-bcdbe82958cd-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||4d6c728f-05d4-4a50-b4b6-bcdbe82958cd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||4d828d9a-015c-44b3-b568-0dbe58b9b151-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1233,8 +1317,12 @@
 ||53b186b3-4850-4381-9ce8-a4218872501e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||53cabfdb-27e6-4b24-923e-4cfb24d6841a-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||53cabfdb-27e6-4b24-923e-4cfb24d6841a-netseer-ipaddr-assoc.xz.fbcdn.net^
+||53e60408-7937-4120-9795-c7acbe0b4089-netseer-ipaddr-assoc.xy.fbcdn.net^
+||53e60408-7937-4120-9795-c7acbe0b4089-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||53eb69e9-5c90-485a-8c66-87e8e83be68c-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||53eb69e9-5c90-485a-8c66-87e8e83be68c-netseer-ipaddr-assoc.xz.fbcdn.net^
+||53ff0590-2fca-4a97-978c-562a513e37dd-netseer-ipaddr-assoc.xy.fbcdn.net^
+||53ff0590-2fca-4a97-978c-562a513e37dd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||53k2no.tdum.alibaba.com^
 ||540bbd19-2b98-4a70-b479-6266aa5f0387-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||540bbd19-2b98-4a70-b479-6266aa5f0387-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -1268,8 +1356,12 @@
 ||55f61baa-b02c-4d28-b59d-8c7cf4cab964-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||5606fdc5-b047-4f21-a3d8-85dd6df218a3-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||5606fdc5-b047-4f21-a3d8-85dd6df218a3-netseer-ipaddr-assoc.xz.fbcdn.net^
+||5611925c-89e5-4c22-8ce3-3ae3417efd6f-netseer-ipaddr-assoc.xy.fbcdn.net^
+||5611925c-89e5-4c22-8ce3-3ae3417efd6f-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||5633ed45-eba5-45d7-8d94-b0064ce8a08d-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||5633ed45-eba5-45d7-8d94-b0064ce8a08d-netseer-ipaddr-assoc.xz.fbcdn.net^
+||5658aff2-baef-4f5f-b796-3b023e31ba31-netseer-ipaddr-assoc.xy.fbcdn.net^
+||5658aff2-baef-4f5f-b796-3b023e31ba31-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||567ef768-cd1a-49ae-b0b0-548840efd62c-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||567ef768-cd1a-49ae-b0b0-548840efd62c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||568874b4-f5c2-44a8-8717-bce30a9d7cb8-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1339,6 +1431,8 @@
 ||5af7da9d-bbad-4ceb-90f4-b5211f3759e1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||5afafdac-4f9a-4f2e-9d03-198d3f8266ef-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||5afafdac-4f9a-4f2e-9d03-198d3f8266ef-netseer-ipaddr-assoc.xz.fbcdn.net^
+||5b2224e6-a012-4f93-93ba-8be071a00f44-netseer-ipaddr-assoc.xy.fbcdn.net^
+||5b2224e6-a012-4f93-93ba-8be071a00f44-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||5b4a602d-cef0-4851-8740-cd4bf9e2a247-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||5b4a602d-cef0-4851-8740-cd4bf9e2a247-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||5bbcbef3-f05a-4778-9ac1-3497d98854ba-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -1429,6 +1523,7 @@
 ||61490d19-e5ee-40e6-b413-d246531560e2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||6154d355-ca35-4d49-8ff7-3cd96465bb9e-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||6154d355-ca35-4d49-8ff7-3cd96465bb9e-netseer-ipaddr-assoc.xz.fbcdn.net^
+||6158af03-db45-482e-8482-84d987e6e81f-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||6159a13f-ce8e-43b4-aca3-806c371af41a-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||6159a13f-ce8e-43b4-aca3-806c371af41a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||61688e40-1ed6-4ee5-97f1-7d17cbba0fa0-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1441,6 +1536,8 @@
 ||61cebac8-5566-4299-8977-190c6ae0d34c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||62441e11-f9df-4bcc-8fde-dc793bbcbe97-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||62441e11-f9df-4bcc-8fde-dc793bbcbe97-netseer-ipaddr-assoc.xz.fbcdn.net^
+||625c94b4-b60d-437c-8d05-21ad96124bb8-netseer-ipaddr-assoc.xy.fbcdn.net^
+||625c94b4-b60d-437c-8d05-21ad96124bb8-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||626a8ad6-6cae-4c3a-89ec-0a7d9cecab73-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||626a8ad6-6cae-4c3a-89ec-0a7d9cecab73-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||6281abfa-8adf-482c-9a37-d9dabde0b7cd-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1449,6 +1546,8 @@
 ||62988d3d-5db3-4074-8b81-8baf409c578b-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||62acc218-a5d3-443e-80b1-59d66683c125-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||62acc218-a5d3-443e-80b1-59d66683c125-netseer-ipaddr-assoc.xz.fbcdn.net^
+||62c16248-6f94-4959-8815-6e12d2f7fd7d-netseer-ipaddr-assoc.xy.fbcdn.net^
+||62c16248-6f94-4959-8815-6e12d2f7fd7d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||62e4a0b4-58d9-4822-818a-84101b704cce-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||62e4a0b4-58d9-4822-818a-84101b704cce-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||631c68d2-93b0-4d49-a9a7-3a022bad72cd-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1457,6 +1556,8 @@
 ||632ced4c-54f1-4a6b-a347-d1137bbb28c2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||63bc53bc-04ec-4a12-91ae-b7663173bfec-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||63bc53bc-04ec-4a12-91ae-b7663173bfec-netseer-ipaddr-assoc.xz.fbcdn.net^
+||63be810a-8c1e-4f0b-9c71-c74949d07925-netseer-ipaddr-assoc.xy.fbcdn.net^
+||63be810a-8c1e-4f0b-9c71-c74949d07925-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||63c29790-eea9-467c-a6cf-1b8677930fdd-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||63c29790-eea9-467c-a6cf-1b8677930fdd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||63db53fb-2e64-43d1-85d0-91b0e8f3d00a-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1474,6 +1575,8 @@
 ||64ade49f-7b92-4f21-af1a-c301cd9cf052-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||64c0527b-1db2-4e82-80a4-29e618c6751d-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||64c0527b-1db2-4e82-80a4-29e618c6751d-netseer-ipaddr-assoc.xz.fbcdn.net^
+||64fa97df-4d78-486c-84ac-90f3df16369a-netseer-ipaddr-assoc.xy.fbcdn.net^
+||64fa97df-4d78-486c-84ac-90f3df16369a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||650189a8-9b69-4a4f-8a0e-837a03285905-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||650189a8-9b69-4a4f-8a0e-837a03285905-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||65244bad-b119-4a30-9fd8-5a9223344f95-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1504,6 +1607,8 @@
 ||66683f48-7aee-49e4-8291-7be7d970d671-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||6679cf1d-ceb4-48d8-acad-b214a1257b69-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||6679cf1d-ceb4-48d8-acad-b214a1257b69-netseer-ipaddr-assoc.xz.fbcdn.net^
+||66a4f4b8-be1a-404c-9546-91374fcc21e2-netseer-ipaddr-assoc.xy.fbcdn.net^
+||66a4f4b8-be1a-404c-9546-91374fcc21e2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||66c88d40-3b04-42ad-a99e-ada3dcd069a4-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||66c88d40-3b04-42ad-a99e-ada3dcd069a4-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||66e234bb-95ff-42a3-9f5b-ff945ae7a5e7-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1558,6 +1663,8 @@
 ||69be536c-fe5d-4f5a-8d5d-579e31e1abc1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||69bef24a-96c9-45ce-91dd-d5227cc6cd62-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||69bef24a-96c9-45ce-91dd-d5227cc6cd62-netseer-ipaddr-assoc.xz.fbcdn.net^
+||69d02386-3ae5-48e3-8fbf-b4ec52a0b9d1-netseer-ipaddr-assoc.xy.fbcdn.net^
+||69d02386-3ae5-48e3-8fbf-b4ec52a0b9d1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||69d99df9-a679-437a-85bf-3efa0ed8e4e1-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||69d99df9-a679-437a-85bf-3efa0ed8e4e1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||69e501f7-e7d1-4c8d-bff6-c399d2bc86e7-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1609,6 +1716,8 @@
 ||6ccb2313-00aa-4c47-8129-8bac33269d14-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||6d00c8df-cabf-4d00-8e41-46ff11f3fe4b-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||6d00c8df-cabf-4d00-8e41-46ff11f3fe4b-netseer-ipaddr-assoc.xz.fbcdn.net^
+||6d27581a-41d3-418d-bc35-43bf974de57d-netseer-ipaddr-assoc.xy.fbcdn.net^
+||6d27581a-41d3-418d-bc35-43bf974de57d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||6d28e9b7-26b6-4eda-91f8-b63aa1bf71dd-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||6d28e9b7-26b6-4eda-91f8-b63aa1bf71dd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||6d2a96d1-bb95-49fa-98b9-5d6503b67948-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1671,6 +1780,8 @@
 ||724e4d77-d88a-4026-990e-e215c11346de-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||72571c25-fa93-4fbd-81cb-bf5fd608f989-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||72571c25-fa93-4fbd-81cb-bf5fd608f989-netseer-ipaddr-assoc.xz.fbcdn.net^
+||7266b262-7b81-4eff-849b-55fd08551bbd-netseer-ipaddr-assoc.xy.fbcdn.net^
+||7266b262-7b81-4eff-849b-55fd08551bbd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||726b8e53-a9a8-4f55-bbe0-5d545c53e304-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||726b8e53-a9a8-4f55-bbe0-5d545c53e304-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||72814adf-297d-4bd9-bab8-68bd8e729152-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1744,8 +1855,11 @@
 ||772a43fc-ef09-4b18-a7c6-996274462b59-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||7771c820-a8d4-4b8b-8cf0-ef2817fc6751-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||7771c820-a8d4-4b8b-8cf0-ef2817fc6751-netseer-ipaddr-assoc.xz.fbcdn.net^
+||7789bed9-cd49-4687-94b8-7e8689a5e008-netseer-ipaddr-assoc.xy.fbcdn.net^
+||7789bed9-cd49-4687-94b8-7e8689a5e008-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||778b2692-f54c-43e9-a85e-f5221f1dc196-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||778b2692-f54c-43e9-a85e-f5221f1dc196-netseer-ipaddr-assoc.xz.fbcdn.net^
+||778ca624-81b8-496d-b8d2-7ca2ddf7fa8e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||77c60c20-b370-4a3d-9135-6bdf09b2fe70-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||77c60c20-b370-4a3d-9135-6bdf09b2fe70-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||77f6d825-5086-4b80-ad7d-b737dc480c44-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1839,6 +1953,7 @@
 ||7fd710ff-a5cc-43a8-9284-32dfb89a1af8-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||7fd710ff-a5cc-43a8-9284-32dfb89a1af8-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||7q8vwb-cdn-settings.appsflyersdk.com^
+||7q8vwb-launches.appsflyersdk.com^
 ||8005ef96-885c-4c80-a988-c41596c50415-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||8005ef96-885c-4c80-a988-c41596c50415-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||801ed936-413a-42b5-8f56-2cf4bc547cba-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1883,10 +1998,14 @@
 ||82471896-b977-4d5e-897e-3e1626b04b21-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||82a07d5ee45c.cdn4.forter.com^
 ||82a88d2d-94bd-4ff0-97ae-bb84cf890dcb-netseer-ipaddr-assoc.xy.fbcdn.net^
+||82bf315a-0ea0-4e30-a55c-6133a35c48c7-netseer-ipaddr-assoc.xy.fbcdn.net^
+||82bf315a-0ea0-4e30-a55c-6133a35c48c7-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||832c9695-225a-458a-b39e-5276db5394b4-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||832c9695-225a-458a-b39e-5276db5394b4-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||83b99d6c-8869-4996-a54c-21871d7ff5d8-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||83b99d6c-8869-4996-a54c-21871d7ff5d8-netseer-ipaddr-assoc.xz.fbcdn.net^
+||83bab6db-4a78-400a-9ea0-761aef7b4fb1-netseer-ipaddr-assoc.xy.fbcdn.net^
+||83bab6db-4a78-400a-9ea0-761aef7b4fb1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||83c2eb22-be32-4444-9fcf-babd3b3935c5-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||83c2eb22-be32-4444-9fcf-babd3b3935c5-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||83f6cccb-feef-419c-b6c7-7a2a431b32ff-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1918,6 +2037,8 @@
 ||857b08c5-7650-46a9-a3b5-f8241fd4c215-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||859da274-ca7b-4b51-b31c-cbd020c720ee-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||859da274-ca7b-4b51-b31c-cbd020c720ee-netseer-ipaddr-assoc.xz.fbcdn.net^
+||85b18acd-df9a-46a0-87f2-cd44a1ff15df-netseer-ipaddr-assoc.xy.fbcdn.net^
+||85b18acd-df9a-46a0-87f2-cd44a1ff15df-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||85f7b25e-7cc0-4dbc-8134-a1021960f8c1-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||85f7b25e-7cc0-4dbc-8134-a1021960f8c1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||85fe2995-74f9-42db-a9f7-32c28006c4ed-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1932,6 +2053,8 @@
 ||860ca055-7bd8-4c07-9954-599d22a1764c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||867fcdc5-5355-4cb2-912e-8d207f0bcb92-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||867fcdc5-5355-4cb2-912e-8d207f0bcb92-netseer-ipaddr-assoc.xz.fbcdn.net^
+||869da140-56ac-4f7b-8f66-7e28a38596cc-netseer-ipaddr-assoc.xy.fbcdn.net^
+||869da140-56ac-4f7b-8f66-7e28a38596cc-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||86c177d8-0828-4a5f-8918-baea24b3626f-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||86c177d8-0828-4a5f-8918-baea24b3626f-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||86c886c9-cc48-4f31-82bf-50ee7a514a50-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1954,6 +2077,8 @@
 ||875e2115-4c51-42f1-91fd-090e5208312a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||878f909b-84b3-4062-b481-0944799cbaa8-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||878f909b-84b3-4062-b481-0944799cbaa8-netseer-ipaddr-assoc.xz.fbcdn.net^
+||87aedf3a-9354-44ad-8997-3835ae2273c8-netseer-ipaddr-assoc.xy.fbcdn.net^
+||87aedf3a-9354-44ad-8997-3835ae2273c8-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||87d187a7-2d75-4e29-8294-b0966f243cdc-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||87d187a7-2d75-4e29-8294-b0966f243cdc-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||87d216fb-a870-4c10-8699-e7b8e0e6ed22-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -1976,6 +2101,8 @@
 ||8963e9c5-91b0-47c3-b1a4-0a591b794592-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||89762b47-7b26-4ea9-a068-246ad8d54dc5-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||89762b47-7b26-4ea9-a068-246ad8d54dc5-netseer-ipaddr-assoc.xz.fbcdn.net^
+||898d380a-20cb-4d3f-93bd-0584f78064f5-netseer-ipaddr-assoc.xy.fbcdn.net^
+||898d380a-20cb-4d3f-93bd-0584f78064f5-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||899ed258-96ac-45cf-bc45-cfa0e348bb6b-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||899ed258-96ac-45cf-bc45-cfa0e348bb6b-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||89dd8b78-c93d-4eee-ae12-d0291d89c6d1-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2007,6 +2134,8 @@
 ||8b17e0ca-97f0-4217-a71d-2c92a5cf32c9-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||8b1a2e0e-273d-48b4-b321-905924c50172-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||8b1a2e0e-273d-48b4-b321-905924c50172-netseer-ipaddr-assoc.xz.fbcdn.net^
+||8b55b998-de73-4886-b771-0de1e27ef9f6-netseer-ipaddr-assoc.xy.fbcdn.net^
+||8b55b998-de73-4886-b771-0de1e27ef9f6-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||8b645d8f-cfcf-4612-b967-f8007c6ae20f-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||8b645d8f-cfcf-4612-b967-f8007c6ae20f-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||8b65c045-e018-4ed2-ac3e-4ce397c08a7e-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2027,6 +2156,8 @@
 ||8cf99786-3a6d-4b9a-b716-55ff336f0104-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||8d094c32-2788-417f-9205-2ee0a26cfb1e-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||8d094c32-2788-417f-9205-2ee0a26cfb1e-netseer-ipaddr-assoc.xz.fbcdn.net^
+||8d15d152-d24e-4e92-baf5-aa923c26c89c-netseer-ipaddr-assoc.xy.fbcdn.net^
+||8d15d152-d24e-4e92-baf5-aa923c26c89c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||8d1c0254-0f17-421a-b630-55b3af370458-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||8d1c0254-0f17-421a-b630-55b3af370458-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||8d1fbe8f-aa04-43a0-8f36-b2d81914a00f-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2111,6 +2242,8 @@
 ||92fd1c31-14aa-4d5f-b078-243dfd82391c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||934c2091-aa1b-4dee-9700-9eab3746305d-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||934c2091-aa1b-4dee-9700-9eab3746305d-netseer-ipaddr-assoc.xz.fbcdn.net^
+||93535c46-c52f-4441-a150-465bd47d44b0-netseer-ipaddr-assoc.xy.fbcdn.net^
+||93535c46-c52f-4441-a150-465bd47d44b0-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||938069dc-9f33-4d40-bf86-9bb4c66269bf-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||938069dc-9f33-4d40-bf86-9bb4c66269bf-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||93b79dac-2e8e-4064-a6f8-11c56e6579a4-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2173,6 +2306,8 @@
 ||9679de76-2b3e-4679-90ac-52a441a90d5c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||967b2b29-2472-4251-8935-713c23d58b51-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||967b2b29-2472-4251-8935-713c23d58b51-netseer-ipaddr-assoc.xz.fbcdn.net^
+||96973ad3-f4a4-4000-ae40-ca80c81f4650-netseer-ipaddr-assoc.xy.fbcdn.net^
+||96973ad3-f4a4-4000-ae40-ca80c81f4650-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||969b73d2-e705-40c5-8a92-17445df45e93-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||969b73d2-e705-40c5-8a92-17445df45e93-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||969d3269-a3d8-427d-a2c2-27af13d29531-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2185,6 +2320,8 @@
 ||9704a6b9-3685-4b9d-86c8-9d313676c26d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||97195403-c207-4cf5-b71d-d189e868f15e-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||97195403-c207-4cf5-b71d-d189e868f15e-netseer-ipaddr-assoc.xz.fbcdn.net^
+||971ee8f7-f4c8-4de8-b06b-054e13132884-netseer-ipaddr-assoc.xy.fbcdn.net^
+||971ee8f7-f4c8-4de8-b06b-054e13132884-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||9752d0a2-3d44-48b3-8ed3-949902224092-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||9752d0a2-3d44-48b3-8ed3-949902224092-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||976d1800-b375-45fa-97ba-0baaaad414dc-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2211,6 +2348,8 @@
 ||984be676-cc78-45f0-930b-ef88dc4187eb-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||984f1763-932a-42a3-94ee-68487129909d-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||984f1763-932a-42a3-94ee-68487129909d-netseer-ipaddr-assoc.xz.fbcdn.net^
+||985e9332-c748-4c6a-86bf-e637ae901f7e-netseer-ipaddr-assoc.xy.fbcdn.net^
+||985e9332-c748-4c6a-86bf-e637ae901f7e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||98c1006c-4e83-44b5-8766-7d9b1d350dab-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||98c1006c-4e83-44b5-8766-7d9b1d350dab-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||98cfe061-baf3-440f-8b16-a6361663f1d3-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2301,8 +2440,14 @@
 ||9edf078c-76c3-4d9a-aee2-94573606e360-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||9ef5fca0-4313-4782-a3b6-0b098ed0cd02-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||9ef5fca0-4313-4782-a3b6-0b098ed0cd02-netseer-ipaddr-assoc.xz.fbcdn.net^
+||9f47f4c2-d857-4e0a-9cdb-992c31f56f60-netseer-ipaddr-assoc.xy.fbcdn.net^
+||9f47f4c2-d857-4e0a-9cdb-992c31f56f60-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||9f67ec3a-bb7f-49ce-9581-d5f6f5f61fbe-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||9f67ec3a-bb7f-49ce-9581-d5f6f5f61fbe-netseer-ipaddr-assoc.xz.fbcdn.net^
+||9f6c6e50-8145-43ca-963e-344fdadc94cd-netseer-ipaddr-assoc.xy.fbcdn.net^
+||9f6c6e50-8145-43ca-963e-344fdadc94cd-netseer-ipaddr-assoc.xz.fbcdn.net^
+||9f9731d4-77e8-421f-b6f5-aa64252a5523-netseer-ipaddr-assoc.xy.fbcdn.net^
+||9f9731d4-77e8-421f-b6f5-aa64252a5523-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||9f9b92f8-d785-4d91-a82f-7e3d32b3385c-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||9f9b92f8-d785-4d91-a82f-7e3d32b3385c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||9fa7d566-b03b-4af2-a0ff-b4e60c937a65-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2337,10 +2482,14 @@
 ||a15ec6d8-8124-4cca-be15-aa27806eb6b5-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||a189b67b-ec53-4ac6-b9d7-5d4edef3f1b2-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||a189b67b-ec53-4ac6-b9d7-5d4edef3f1b2-netseer-ipaddr-assoc.xz.fbcdn.net^
+||a1cc3e57-9ed6-4f7d-a209-726433a68e9d-netseer-ipaddr-assoc.xy.fbcdn.net^
+||a1cc3e57-9ed6-4f7d-a209-726433a68e9d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||a21ed990-3331-4aaf-bf25-b62e4663d0dd-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||a21ed990-3331-4aaf-bf25-b62e4663d0dd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||a23f9245-05a3-4f8b-9c9a-c0f53abbcf51-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||a23f9245-05a3-4f8b-9c9a-c0f53abbcf51-netseer-ipaddr-assoc.xz.fbcdn.net^
+||a2421668-3194-4982-bd60-dff5cffb924c-netseer-ipaddr-assoc.xy.fbcdn.net^
+||a2421668-3194-4982-bd60-dff5cffb924c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||a28ecdad-3d46-4320-bcc8-778cbf283b29-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||a28ecdad-3d46-4320-bcc8-778cbf283b29-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||a2952c26-6710-4b01-8367-adece08e3af5-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2374,6 +2523,8 @@
 ||a4ee30dc-1f19-4c9b-8667-1766ab6e1715-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||a525d1ad-db18-491b-b4f1-fd5c3020af04-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||a525d1ad-db18-491b-b4f1-fd5c3020af04-netseer-ipaddr-assoc.xz.fbcdn.net^
+||a53bafe1-3eb1-4fb1-a770-111248ac2d7d-netseer-ipaddr-assoc.xy.fbcdn.net^
+||a53bafe1-3eb1-4fb1-a770-111248ac2d7d-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||a54a771f-3828-4cc5-be4f-1a2e8b3f9556-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||a54a771f-3828-4cc5-be4f-1a2e8b3f9556-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||a5558063-44ab-472b-a61d-60e7548e57d8-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2466,6 +2617,7 @@
 ||aaf63e63-a91d-42f4-aa7c-95caaa118407-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||aax-events-cell01-cf.us-east.3px.axp.amazon-adsystem.com^
 ||aax-events-cell02-cf.us-east.3px.axp.amazon-adsystem.com^
+||aax.amazon-adsystem.com^
 ||ab.chatgpt.com^
 ||ab8793a7-3355-44d1-9292-c4957384656e-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||ab8793a7-3355-44d1-9292-c4957384656e-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -2477,6 +2629,8 @@
 ||abe5ee9f-c631-4a4e-8d8f-5bad15a9e582-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||ac0811b8-3930-414e-90bd-c6b7dd9d4209-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||ac0811b8-3930-414e-90bd-c6b7dd9d4209-netseer-ipaddr-assoc.xz.fbcdn.net^
+||ac0ddab9-4750-4126-99d8-8912cd6ae51a-netseer-ipaddr-assoc.xy.fbcdn.net^
+||ac0ddab9-4750-4126-99d8-8912cd6ae51a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||ac4525ca-a047-4d2a-9a46-35f8e8dca456-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||ac603c16-7cd2-4e32-8546-3d96da9c8b31-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||ac603c16-7cd2-4e32-8546-3d96da9c8b31-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -2500,6 +2654,8 @@
 ||activity.windows.com^
 ||ad-events.flashtalking.com^
 ||ad-host-backup-america.oss-us-west-1.aliyuncs.com^
+||ad-host-backup-asia.oss-ap-southeast-1.aliyuncs.com^
+||ad-host-backup-europe.oss-eu-central-1.aliyuncs.com^
 ||ad-load.afafb.com^
 ||ad.doubleclick.net^
 ||ad.mail.ru^
@@ -2587,6 +2743,8 @@
 ||af-south-1.alb.pulse.perfmetrics.netflix.com^
 ||af2a38f8-dd41-4923-bdfb-af210f9b6f23-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||af2a38f8-dd41-4923-bdfb-af210f9b6f23-netseer-ipaddr-assoc.xz.fbcdn.net^
+||af42f798-9e92-4b33-ae92-6449fe41f031-netseer-ipaddr-assoc.xy.fbcdn.net^
+||af42f798-9e92-4b33-ae92-6449fe41f031-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||af7dd0fb-4595-4a0b-8375-276b40350ced-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||af7dd0fb-4595-4a0b-8375-276b40350ced-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||af8bf9b1-d222-4ba2-beff-0a1e64f693ac-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2595,6 +2753,8 @@
 ||af994d60-3afe-4396-b501-36373f492895-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||afd3e303-7a06-4781-8a9e-c3fcd34b47e7-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||afd3e303-7a06-4781-8a9e-c3fcd34b47e7-netseer-ipaddr-assoc.xz.fbcdn.net^
+||afeabd45-61ac-4d76-9043-cff50231dab7-netseer-ipaddr-assoc.xy.fbcdn.net^
+||afeabd45-61ac-4d76-9043-cff50231dab7-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||afee9999-bfe1-4548-8d97-b8741c50f174-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||afee9999-bfe1-4548-8d97-b8741c50f174-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||affec8d1-b1d9-4046-b9d0-e4132e357cd6-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2643,6 +2803,7 @@
 ||api.mixpanel.com^
 ||api.mythad.com^
 ||api.parrot-flow.com^
+||api.permutive.app^
 ||api.retargetly.com^
 ||api.robin-flow.com^
 ||api.snapkit.com^
@@ -2667,12 +2828,15 @@
 ||app-analytics-services.com^
 ||app-analytics-v2.snapchat.com^
 ||app-measurement.com^
+||app.adjust.com^
+||app.adjust.io^
 ||app.qualified.com^
 ||app.upvert.io^
 ||appsgrowthpromo-pa.clients6.google.com^
 ||appsgrowthpromo-pa.googleapis.com^
 ||arc.msn.com^
 ||arclight.vimeo.com^
+||assets.activity.windows.com^
 ||assets.adobedtm.com^
 ||assets.christiandior.com^
 ||async-px-eu.dynamicyield.com^
@@ -2695,6 +2859,8 @@
 ||b0bc54a4-94df-42a0-a51a-26be7ab1bdfc-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b0edab69-33ea-4862-b956-a0e3a0874b92-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||b0edab69-33ea-4862-b956-a0e3a0874b92-netseer-ipaddr-assoc.xz.fbcdn.net^
+||b10bd8fe-2f7d-4273-b291-212eb461aac4-netseer-ipaddr-assoc.xy.fbcdn.net^
+||b10bd8fe-2f7d-4273-b291-212eb461aac4-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b11001a7-7761-4a24-804a-9efbac8b4693-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||b11001a7-7761-4a24-804a-9efbac8b4693-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b12178f5-0c0c-426a-ad24-7b8dbaca3808-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2705,6 +2871,8 @@
 ||b1940e6b-4373-4828-9b81-3ea33cd45d0a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b226b9ac-91a1-49d1-8c84-9ef16307a2a8-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||b226b9ac-91a1-49d1-8c84-9ef16307a2a8-netseer-ipaddr-assoc.xz.fbcdn.net^
+||b26664a8-20d5-4fcf-8039-1adb5f7538c8-netseer-ipaddr-assoc.xy.fbcdn.net^
+||b26664a8-20d5-4fcf-8039-1adb5f7538c8-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b2751e64-0ca8-4563-ba95-d077a3b08441-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||b2751e64-0ca8-4563-ba95-d077a3b08441-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b2a58f71-7f6b-40b8-a372-2172b6e5bdb8-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2733,6 +2901,8 @@
 ||b44bddff-eb1e-4349-967e-a9f6a0374c41-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b463e38c-286f-4266-b059-3bc3e3927e2a-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||b463e38c-286f-4266-b059-3bc3e3927e2a-netseer-ipaddr-assoc.xz.fbcdn.net^
+||b47486a2-00fe-419b-81ab-f614cda303e1-netseer-ipaddr-assoc.xy.fbcdn.net^
+||b47486a2-00fe-419b-81ab-f614cda303e1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b4c58f9c-12a8-4f93-b4b5-46108d352f95-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||b4c58f9c-12a8-4f93-b4b5-46108d352f95-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b4e5cd37-ffab-4350-8560-2fd9b915032c-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2809,12 +2979,16 @@
 ||b91e9f02-651e-4985-9155-1b1c6b5184c1-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||b91e9f02-651e-4985-9155-1b1c6b5184c1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b926d9e7-7172-4d06-b8b3-b7354668308b-netseer-ipaddr-assoc.xz.fbcdn.net^
+||b9678e25-0a81-475b-ad62-e5b751c7b9f1-netseer-ipaddr-assoc.xy.fbcdn.net^
+||b9678e25-0a81-475b-ad62-e5b751c7b9f1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b97df76c-1cd9-4156-9c61-01c058bc39a9-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||b97df76c-1cd9-4156-9c61-01c058bc39a9-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b9bd1baf-232b-42cb-bb44-1e89a5e9786f-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||b9bd1baf-232b-42cb-bb44-1e89a5e9786f-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||b9bdc77b-2849-4642-8d69-e495ca5531d4-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||b9bdc77b-2849-4642-8d69-e495ca5531d4-netseer-ipaddr-assoc.xz.fbcdn.net^
+||b9e81fd0-2bdf-4134-8662-276c842bbfe4-netseer-ipaddr-assoc.xy.fbcdn.net^
+||b9e81fd0-2bdf-4134-8662-276c842bbfe4-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||ba4d0e7a-90ca-408f-88eb-76bc1bcf7382-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||ba4d0e7a-90ca-408f-88eb-76bc1bcf7382-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||ba753c2d-324b-43c6-841b-88c45e5e918f-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2833,6 +3007,8 @@
 ||bb3b8350-8911-4bf7-a9cf-e67d3202d3a2-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||bb3b8350-8911-4bf7-a9cf-e67d3202d3a2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||bb4cd83c-3461-4817-b656-45c2aafdac7b-netseer-ipaddr-assoc.xz.fbcdn.net^
+||bb55a8bd-4568-42b0-822b-ba20a622912a-netseer-ipaddr-assoc.xy.fbcdn.net^
+||bb55a8bd-4568-42b0-822b-ba20a622912a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||bb56e812-815d-49f8-9a28-e5ea9e8d2cc8-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||bb56e812-815d-49f8-9a28-e5ea9e8d2cc8-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||bb5cadc4-a1a6-4de8-ade6-8eed8fdfdea2-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2852,6 +3028,8 @@
 ||bc90a8ae-b8df-4113-a09e-ef22853a7867-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||bcc1042f-ce64-445d-bd7c-2dbe96ddd5d1-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||bcc1042f-ce64-445d-bd7c-2dbe96ddd5d1-netseer-ipaddr-assoc.xz.fbcdn.net^
+||bce358d8-e009-4afe-b7af-5baf33501d23-netseer-ipaddr-assoc.xy.fbcdn.net^
+||bce358d8-e009-4afe-b7af-5baf33501d23-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||bd0d60c1-6781-4938-a4fb-cfcf9f6d255d.edge.permutive.app^
 ||bd412534-c6cf-4021-9bfd-8d630542eaa9-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||bd412534-c6cf-4021-9bfd-8d630542eaa9-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -2898,6 +3076,8 @@
 ||bf836734-e5c2-4e63-962b-a46781af5871-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||bfa55d98-5c89-4cdf-9e78-68f6679f605d-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||bfa55d98-5c89-4cdf-9e78-68f6679f605d-netseer-ipaddr-assoc.xz.fbcdn.net^
+||bfaaf9d6-8fe0-4245-8436-46ebe51b144e-netseer-ipaddr-assoc.xy.fbcdn.net^
+||bfaaf9d6-8fe0-4245-8436-46ebe51b144e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||bfc3a8ee-58b4-44e4-b9f2-e086c4092ec3-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||bfc3a8ee-58b4-44e4-b9f2-e086c4092ec3-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||bfe2804a-95c4-410f-af8b-6ee84bf4a8d5-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -2919,6 +3099,7 @@
 ||brave.cloudflare-dns.com^
 ||browser-api-br.heytapmobile.com^
 ||browser-api-gl.heytapmobile.com^
+||browser-intake-datadoghq.com^
 ||browser-intake-datadoghq.eu^
 ||browser-intake-us5-datadoghq.com^
 ||browser.events.data.microsoft.com^
@@ -2931,6 +3112,7 @@
 ||bzrcdn.openai.com^
 ||c.amazon-adsystem.com^
 ||c.bing.com^
+||c.contentsquare.net^
 ||c.go-mpulse.net^
 ||c.live.com^
 ||c.msn.com^
@@ -2944,11 +3126,14 @@
 ||c07fffd8-befa-44e5-80dd-e0aae2bdf958-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c0863f06-10ae-4595-a0f9-51275daccf0d-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c0863f06-10ae-4595-a0f9-51275daccf0d-netseer-ipaddr-assoc.xz.fbcdn.net^
+||c08eab04-0c5c-413b-b5d4-d7fb5e2b3576-netseer-ipaddr-assoc.xy.fbcdn.net^
+||c08eab04-0c5c-413b-b5d4-d7fb5e2b3576-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c094a0f6-a194-4ddb-99e2-8869e571be4b-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c094a0f6-a194-4ddb-99e2-8869e571be4b-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c0a86754-36cc-4765-a140-f154072514ca-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c0a86754-36cc-4765-a140-f154072514ca-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c1.microsoft.com^
+||c1.rfihub.net^
 ||c1017b84-3013-4b0a-87ca-e939c647fc96-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c1017b84-3013-4b0a-87ca-e939c647fc96-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c1397dd7-0c2b-4256-a9bf-896e2820a4a5-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3022,6 +3207,8 @@
 ||c435b0e9-7602-4806-ae25-ec0eab6e3b04-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c441e549-befc-423b-b2bf-a00ed411e754-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c441e549-befc-423b-b2bf-a00ed411e754-netseer-ipaddr-assoc.xz.fbcdn.net^
+||c4425279-5634-42bd-bbf6-236b8545c2ff-netseer-ipaddr-assoc.xy.fbcdn.net^
+||c4425279-5634-42bd-bbf6-236b8545c2ff-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c4ae21e0-e306-400c-b5cd-91588020df83-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c4ae21e0-e306-400c-b5cd-91588020df83-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c4b2ba7a-6913-4b34-8c97-26373b6c8529-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3061,8 +3248,12 @@
 ||c70a9ba5-bb79-4d6a-ac22-7a6b5ee19a35-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c710e5a0-37d0-41e9-9e00-d62560bc293f-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c710e5a0-37d0-41e9-9e00-d62560bc293f-netseer-ipaddr-assoc.xz.fbcdn.net^
+||c74ad9cb-9c74-4961-88a7-44364e1a2bba-netseer-ipaddr-assoc.xy.fbcdn.net^
+||c74ad9cb-9c74-4961-88a7-44364e1a2bba-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c7a0078c-3999-4146-924a-b5649c8fc3f2-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c7a0078c-3999-4146-924a-b5649c8fc3f2-netseer-ipaddr-assoc.xz.fbcdn.net^
+||c7a0ff0e-2e6f-402a-aafe-1f1afc8edb4a-netseer-ipaddr-assoc.xy.fbcdn.net^
+||c7a0ff0e-2e6f-402a-aafe-1f1afc8edb4a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c7b6765f-5351-4e18-9a9c-20f7c6971ccc-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c7b6765f-5351-4e18-9a9c-20f7c6971ccc-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c7d21be4-dbd5-4bd8-80e8-b5c0b8c957c3-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3087,6 +3278,8 @@
 ||c8d87b80-e2f5-4afe-accb-460b6d65ea94-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c8eea187-0c8a-4ea1-838d-86939870741c-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c8eea187-0c8a-4ea1-838d-86939870741c-netseer-ipaddr-assoc.xz.fbcdn.net^
+||c944343f-4118-4241-bbce-45522ed4e206-netseer-ipaddr-assoc.xy.fbcdn.net^
+||c944343f-4118-4241-bbce-45522ed4e206-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c9a9ab00-8451-43f5-b30c-88d4882ebb20-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||c9a9ab00-8451-43f5-b30c-88d4882ebb20-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||c9ea2426-c7d0-493a-a816-41bf4182922f-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3162,6 +3355,7 @@
 ||cdn-v4.amp-endpoint3.com^
 ||cdn-v6.amp-endpoint3.com^
 ||cdn.adkaora.space^
+||cdn.boomtrain.com^
 ||cdn.branch.io^
 ||cdn.consentmanager.net^
 ||cdn.cookie-script.com^
@@ -3188,6 +3382,7 @@
 ||cdn3.optimizely.com^
 ||cdn6.forter.com^
 ||cdn9.forter.com^
+||cds.taboola.com^
 ||ce1fdbad-2aab-47f8-a037-7cf5832e01f3-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||ce1fdbad-2aab-47f8-a037-7cf5832e01f3-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||ce3e75d5-ipv6.jpush.cn^
@@ -3240,6 +3435,7 @@
 ||cn.macacusdame.com^
 ||cnam4c.cdn-settings.appsflyersdk.com^
 ||cnlogs.umengcloud.com^
+||collect-eu-central-1.tealiumiq.com^
 ||collector.github.com^
 ||collector.wdp.brave.com^
 ||collector.xhamster.com^
@@ -3300,6 +3496,8 @@
 ||d1553b61-c0ce-4a78-b5cf-2124b05e892a-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d17f2d14-c4ea-4f52-a06c-567310e22425-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||d17f2d14-c4ea-4f52-a06c-567310e22425-netseer-ipaddr-assoc.xz.fbcdn.net^
+||d184ddab-efab-45b8-ac02-0f4f79b1d43f-netseer-ipaddr-assoc.xy.fbcdn.net^
+||d184ddab-efab-45b8-ac02-0f4f79b1d43f-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d1a2be38-bbca-41b6-a481-6a63f0861d38-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||d1a2be38-bbca-41b6-a481-6a63f0861d38-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d1c2c9f8-0536-4973-adcc-c2475fad7975-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3321,6 +3519,8 @@
 ||d26acf16-56de-4190-b0a7-b50ca38f83a3-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||d26acf16-56de-4190-b0a7-b50ca38f83a3-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d26xw8rp6mlgfg.cloudfront.net^
+||d2a50e00-ca75-480f-afc0-f552a6ecd122-netseer-ipaddr-assoc.xy.fbcdn.net^
+||d2a50e00-ca75-480f-afc0-f552a6ecd122-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d2a86462-a40c-401b-9ccf-2aae2a7c6419-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||d2a86462-a40c-401b-9ccf-2aae2a7c6419-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d2aa8d25-6450-4e0b-a37d-e689567cdae7-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -3336,6 +3536,8 @@
 ||d3069fa1-cfe7-4036-9518-75f2eeab0599-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d3174600-4ebf-47e3-b5be-47890344d926-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||d3174600-4ebf-47e3-b5be-47890344d926-netseer-ipaddr-assoc.xz.fbcdn.net^
+||d3dbeb67-1c4a-42c0-bdcc-4f55abce94b6-netseer-ipaddr-assoc.xy.fbcdn.net^
+||d3dbeb67-1c4a-42c0-bdcc-4f55abce94b6-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d3de286f-aefb-451e-b97d-3d23292b2efc-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||d3de286f-aefb-451e-b97d-3d23292b2efc-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d3p8zr0ffa9t17.cloudfront.net^
@@ -3363,6 +3565,8 @@
 ||d50209db-d1b3-440c-8249-491510fdc159-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d5076f34-825d-41ec-9d12-6b8bad076ffc-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||d5076f34-825d-41ec-9d12-6b8bad076ffc-netseer-ipaddr-assoc.xz.fbcdn.net^
+||d5533235-54ae-4bf2-a09d-59281189db13-netseer-ipaddr-assoc.xy.fbcdn.net^
+||d5533235-54ae-4bf2-a09d-59281189db13-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d5a46211-8af1-49f1-b73a-e673b4a0f3d6-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||d5a46211-8af1-49f1-b73a-e673b4a0f3d6-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||d624abda-9a5f-43a5-9e30-4ff22c78b672-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3543,6 +3747,7 @@
 ||dns.quad9.net^
 ||doh.dns.apple.com^
 ||doubleclick.net^
+||dsum-sec.casalemedia.com^
 ||dv9cjr-cdn-settings.appsflyersdk.com^
 ||dv9cjr-launches.appsflyersdk.com^
 ||e0018b20-b2b8-4b50-ab5c-3e3a4fb1252a-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3567,6 +3772,8 @@
 ||e13df47c-4e42-4944-a298-992b35b083c4-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||e14f43cd-3b09-475a-bd99-ea2db63d07bf-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||e14f43cd-3b09-475a-bd99-ea2db63d07bf-netseer-ipaddr-assoc.xz.fbcdn.net^
+||e16a190e-5fe6-4810-a3ac-47fe98b78802-netseer-ipaddr-assoc.xy.fbcdn.net^
+||e16a190e-5fe6-4810-a3ac-47fe98b78802-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||e173780e-e401-41ff-9790-1810a322cacd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||e1b6af26-16f9-425f-a7a6-b2963c2bbcd1-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||e1b6af26-16f9-425f-a7a6-b2963c2bbcd1-netseer-ipaddr-assoc.xz.fbcdn.net^
@@ -3584,6 +3791,8 @@
 ||e23693aa-87e3-4e27-86d0-f8c934399c71-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||e24bdfe2-d801-4dbd-b81d-2d90b142c613-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||e24bdfe2-d801-4dbd-b81d-2d90b142c613-netseer-ipaddr-assoc.xz.fbcdn.net^
+||e24fcb4d-942c-4a4d-991e-932d1ca2dd21-netseer-ipaddr-assoc.xy.fbcdn.net^
+||e24fcb4d-942c-4a4d-991e-932d1ca2dd21-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||e2c1.gcp.gvt2.com^
 ||e2c11.gcp.gvt2.com^
 ||e2c14.gcp.gvt2.com^
@@ -3595,11 +3804,13 @@
 ||e2c23.gcp.gvt2.com^
 ||e2c26.gcp.gvt2.com^
 ||e2c27.gcp.gvt2.com^
+||e2c29.gcp.gvt2.com^
 ||e2c3.gcp.gvt2.com^
 ||e2c32.gcp.gvt2.com^
 ||e2c34.gcp.gvt2.com^
 ||e2c37.gcp.gvt2.com^
 ||e2c38.gcp.gvt2.com^
+||e2c39.gcp.gvt2.com^
 ||e2c4.gcp.gvt2.com^
 ||e2c40.gcp.gvt2.com^
 ||e2c41.gcp.gvt2.com^
@@ -3623,6 +3834,7 @@
 ||e2c7.gcp.gvt2.com^
 ||e2c70.gcp.gvt2.com^
 ||e2c73.gcp.gvt2.com^
+||e2c74.gcp.gvt2.com^
 ||e2c76.gcp.gvt2.com^
 ||e2c77.gcp.gvt2.com^
 ||e2c78.gcp.gvt2.com^
@@ -3725,6 +3937,8 @@
 ||easytomessage.com^
 ||eb02074a-a520-4b52-b519-77cedc05e19a-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||eb02074a-a520-4b52-b519-77cedc05e19a-netseer-ipaddr-assoc.xz.fbcdn.net^
+||eb0dec28-f44e-4034-86c9-e9c88edb9751-netseer-ipaddr-assoc.xy.fbcdn.net^
+||eb0dec28-f44e-4034-86c9-e9c88edb9751-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||eb13bda9-d729-423f-a71e-c1fa873394cc-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||eb13bda9-d729-423f-a71e-c1fa873394cc-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||eb173764-58ca-4184-9217-43857b827906-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3780,6 +3994,8 @@
 ||ee591c29-0f43-44a9-893f-19bb32813ca8-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||ee9077a9-446e-4b91-87f0-0c3a72b347b9-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||ee9077a9-446e-4b91-87f0-0c3a72b347b9-netseer-ipaddr-assoc.xz.fbcdn.net^
+||ee93282b-4fae-4784-b2e9-af1230bbcae0-netseer-ipaddr-assoc.xy.fbcdn.net^
+||ee93282b-4fae-4784-b2e9-af1230bbcae0-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||eecc1210-6644-4095-87f7-24e1753fba83-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||eecc1210-6644-4095-87f7-24e1753fba83-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||eee97df7-5382-4bca-8ea7-7d529acebf28-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3854,6 +4070,8 @@
 ||f1c778a1-4052-4a35-9e18-33fd41e94471-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f1dc8be2-3537-452f-9b62-07e6edab3f35-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||f1dc8be2-3537-452f-9b62-07e6edab3f35-netseer-ipaddr-assoc.xz.fbcdn.net^
+||f1f06ce6-4641-4a0e-9812-05640f558ffa-netseer-ipaddr-assoc.xy.fbcdn.net^
+||f1f06ce6-4641-4a0e-9812-05640f558ffa-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f2072237-dbf4-46aa-a8f3-e73bbb817f49-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||f2072237-dbf4-46aa-a8f3-e73bbb817f49-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f20770d7-42ad-45d8-806a-a35bb637ef2f-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3871,6 +4089,8 @@
 ||f2ab662c-063d-4dcf-bd10-c0d1fd61e0e0-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||f2ab662c-063d-4dcf-bd10-c0d1fd61e0e0-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f2c77206f80-dafpkosx1793930741-sonar.xz.fbcdn.net^
+||f388c9aa-730f-4026-a493-2d4fc291e7b1-netseer-ipaddr-assoc.xy.fbcdn.net^
+||f388c9aa-730f-4026-a493-2d4fc291e7b1-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f38cd4d3-4e25-468a-9e5e-c110e4040f97-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||f38cd4d3-4e25-468a-9e5e-c110e4040f97-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f39e23c1-e72e-4fe0-bb45-10e807f1c4ce-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3895,6 +4115,8 @@
 ||f48f29fc-6c38-4e69-9a65-a9ffa370ce63-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f4996052-894c-4804-a29d-51d2eae39165-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||f4996052-894c-4804-a29d-51d2eae39165-netseer-ipaddr-assoc.xz.fbcdn.net^
+||f4c4d834-03d7-43dc-b64d-e427876b811f-netseer-ipaddr-assoc.xy.fbcdn.net^
+||f4c4d834-03d7-43dc-b64d-e427876b811f-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f50f8fe3-d06b-4f4c-92e8-1a81ecea2cbd-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||f50f8fe3-d06b-4f4c-92e8-1a81ecea2cbd-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f536889f-730d-45d2-8991-9ea46b46fadb-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3965,6 +4187,8 @@
 ||f8fe60f3-5bff-4c84-aa1f-95340f9da1be-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f9125d69-eeb2-45b2-ba0c-965c3f4acdd7-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||f9125d69-eeb2-45b2-ba0c-965c3f4acdd7-netseer-ipaddr-assoc.xz.fbcdn.net^
+||f91576e1-5eb8-47d8-b182-b36702db0437-netseer-ipaddr-assoc.xy.fbcdn.net^
+||f91576e1-5eb8-47d8-b182-b36702db0437-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f9249db6-d3ad-491a-bee6-7e857d43c0d0-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||f9249db6-d3ad-491a-bee6-7e857d43c0d0-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||f94282bc-79d9-4e39-8ff3-944b68f93163-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -3984,6 +4208,8 @@
 ||fa6e2300-a5eb-4277-9bd1-3e344aa7af2e-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fa8393d3-0686-4734-8e05-4772f8b9b3b3-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fa8393d3-0686-4734-8e05-4772f8b9b3b3-netseer-ipaddr-assoc.xz.fbcdn.net^
+||fa9790bc-e6db-4441-a934-cac95a25abce-netseer-ipaddr-assoc.xy.fbcdn.net^
+||fa9790bc-e6db-4441-a934-cac95a25abce-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fa9ce7bd-151d-4bca-866a-3cebdc63a5ae-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fa9ce7bd-151d-4bca-866a-3cebdc63a5ae-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fabac553-ecfc-4da9-ae81-3d5fe80e1593-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -4014,14 +4240,20 @@
 ||fc3ab855-dd80-4683-ba55-f1d9cbd58779-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fc4490f9-0e6a-4e71-9bab-5db60ee93136-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fc4490f9-0e6a-4e71-9bab-5db60ee93136-netseer-ipaddr-assoc.xz.fbcdn.net^
+||fc4b8747-6e7c-4157-995f-e68e7a3ef3c3-netseer-ipaddr-assoc.xy.fbcdn.net^
+||fc4b8747-6e7c-4157-995f-e68e7a3ef3c3-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fcc2f1ad-b7bf-4449-a854-8b06f4ab4df2-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fcc2f1ad-b7bf-4449-a854-8b06f4ab4df2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fcc9f351-5363-4e2b-887e-130314df9bc5-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fcc9f351-5363-4e2b-887e-130314df9bc5-netseer-ipaddr-assoc.xz.fbcdn.net^
+||fcd75182-2dc3-4da2-bf36-34a213982484-netseer-ipaddr-assoc.xy.fbcdn.net^
+||fcd75182-2dc3-4da2-bf36-34a213982484-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fcdcee1e-491d-4d78-ac85-4131ef93842c-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fcdcee1e-491d-4d78-ac85-4131ef93842c-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fce4c91b-7570-4cf3-83dd-64c5b0f38c27-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fce4c91b-7570-4cf3-83dd-64c5b0f38c27-netseer-ipaddr-assoc.xz.fbcdn.net^
+||fcf102c4-8748-465a-aaaa-aba3d53d5589-netseer-ipaddr-assoc.xy.fbcdn.net^
+||fcf102c4-8748-465a-aaaa-aba3d53d5589-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fcfc29f4-3dfd-4cb7-b394-c96220e985c2-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fcfc29f4-3dfd-4cb7-b394-c96220e985c2-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fd.api.iris.microsoft.com^
@@ -4033,10 +4265,14 @@
 ||fd67f251-594d-4433-8584-2b63d1f48bd9-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fd8faa23-1e05-40d9-a04c-2fb2abcce025-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fd8faa23-1e05-40d9-a04c-2fb2abcce025-netseer-ipaddr-assoc.xz.fbcdn.net^
+||fdad6fa5-0640-4a6b-9505-d61baad062e5-netseer-ipaddr-assoc.xy.fbcdn.net^
+||fdad6fa5-0640-4a6b-9505-d61baad062e5-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fdeaf857-422b-43c1-8a0a-5599961f9b88-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fdeaf857-422b-43c1-8a0a-5599961f9b88-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fdf3f50d-4b11-4379-9ad6-72c904b05b13-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fdf3f50d-4b11-4379-9ad6-72c904b05b13-netseer-ipaddr-assoc.xz.fbcdn.net^
+||fe211ddb-0473-4235-a555-c2e43e26a730-netseer-ipaddr-assoc.xy.fbcdn.net^
+||fe211ddb-0473-4235-a555-c2e43e26a730-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fe248ce6-15eb-4e42-80f6-36d5a2a8b164-netseer-ipaddr-assoc.xy.fbcdn.net^
 ||fe248ce6-15eb-4e42-80f6-36d5a2a8b164-netseer-ipaddr-assoc.xz.fbcdn.net^
 ||fe356f3e-bc18-4318-ab27-7433d768933a-netseer-ipaddr-assoc.xy.fbcdn.net^
@@ -4075,6 +4311,7 @@
 ||fundingchoicesmessages.google.com^
 ||fw.adsafeprotected.com^
 ||gamedot-gp-v3.afafb.com^
+||gateway-outlook.bingviz.com^
 ||gateway.instagram.com^
 ||gateway.unityads.unity3d.com^
 ||geller-pa.googleapis.com^
@@ -4137,11 +4374,14 @@
 ||id.rlcdn.com^
 ||identification.hotmart.com^
 ||identity.ads.roku.com^
+||identity.nel.measure.office.net^
 ||idsyncmxedge.com^
 ||idx.liadm.com^
 ||ilockcardf.apps.coloros.com^
+||image2.pubmatic.com^
 ||imasdk.googleapis.com^
 ||img-ads1.sitio.mx^
+||img03.en25.com^
 ||in.appcenter.ms^
 ||info.startappservice.com^
 ||infoevent.startappservice.com^
@@ -4154,6 +4394,7 @@
 ||iphone-ld.apple.com^
 ||iphonesubmissions.apple.com^
 ||ipv6.unagi-na.amazon.com^
+||ipwho.is^
 ||ismmyx.cdn-settings.appsflyersdk.com^
 ||ismmyx.launches.appsflyersdk.com^
 ||j.6sc.co^
@@ -4165,6 +4406,7 @@
 ||jr.wokefloorer.com^
 ||js-agent.newrelic.com^
 ||js-sec.indexww.com^
+||js.adsrvr.org^
 ||js.hs-scripts.com^
 ||js.qualified.com^
 ||jupiter.intl.sys.miui.com^
@@ -4255,13 +4497,16 @@
 ||ms4.applovin.com^
 ||ms4.applvn.com^
 ||msft-ssp.adnxs.com^
+||msftenterprise.sc.omtrdc.net^
 ||mssdk-sg.capcutapi.com^
 ||mssdk16-normal-alisg.tiktokv.com^
 ||mssdk19-normal-alisg.tiktokv.com^
 ||mssdk22-normal-alisg.tiktokv.com^
 ||mx-central-1.alb.pulse.perfmetrics.netflix.com^
 ||my-analytics.malwarebytes.com^
+||n.clarity.ms^
 ||navvy.media.net^
+||newsfeed.miniclippt.com^
 ||nexus-websocket-a.intercom.io^
 ||niko.toptierbroso.life^
 ||noticecdn.samsungcloudsolution.com^
@@ -4284,6 +4529,8 @@
 ||o4507384982339584.ingest.de.sentry.io^
 ||o4507427284123728.ingest.de.sentry.io^
 ||o4508813103529984.ingest.us.sentry.io^
+||o4511027756007424.ingest.us.sentry.io^
+||o4511072101138432.ingest.us.sentry.io^
 ||o4511411864993792.ingest.us.sentry.io^
 ||o4511849933111296.ingest.us.sentry.io^
 ||o49094.ingest.sentry.io^
@@ -4315,6 +4562,7 @@
 ||panorama.wixapps.net^
 ||partiality.itunes.apple.com^
 ||partner.googleadservices.com^
+||partners.tremorhub.com^
 ||path3.xtracloud.net^
 ||patterns.wdp.brave.com^
 ||payments-graph.facebook.com^
@@ -4324,6 +4572,7 @@
 ||phosphor-pa.googleapis.com^
 ||ping.chartbeat.net^
 ||ping.getadblock.com^
+||pixel-config.reddit.com^
 ||pixel-ed.smadex.com^
 ||pixel-lib.hotmart.com^
 ||pixel-static.spotify.com^
@@ -4362,6 +4611,7 @@
 ||push-report.afafb.com^
 ||puz.afafb.com^
 ||px.ads.linkedin.com^
+||q.clarity.ms^
 ||qcc.qualcomm.com^
 ||qsearch-a.akamaihd.net^
 ||quorum.wdp.brave.com^
@@ -4384,6 +4634,7 @@
 ||rtb.openx.net^
 ||rtlog17-normal-alisg.tiktokv.com^
 ||rtlog19-normal-alisg.tiktokv.com^
+||rum.hlx.page^
 ||rumcdn.geoedge.be^
 ||rus-service-sg.allawnos.com^
 ||s-cdn.anthropic.com^
@@ -4430,11 +4681,11 @@
 ||searchlabspartnerservice-pa.googleapis.com^
 ||secure-ds.serving-sys.com^
 ||securepubads.g.doubleclick.net^
-||self.events.data.microsoft.com^
 ||sentry-io.djiops.com^
 ||sentry-prod.branch.io^
 ||sentry.io^
 ||servedby.flashtalking.com^
+||servedbyadbutler.com^
 ||server.events.data.microsoft.com^
 ||sessions.bugsnag.com^
 ||settings-win.data.microsoft.com^
@@ -4443,13 +4694,16 @@
 ||sg-new-ssplib-hb.mtgglobals.com^
 ||sgali-mcs.byteoversea.com^
 ||shepherd.ff.avast.com^
+||shopify.privy.com^
 ||shortintl.push.heytapmobile.com^
 ||si3jdrizgr1dq0wuy-mercadolibre.siteintercept.qualtrics.com^
 ||sidebar-apps-sg.allawnos.com^
 ||signal-service.pbs.yahoo.com^
 ||sis-ipv6.jpush.cn^
 ||sis.jpush.io^
+||siteintercept.qualtrics.com^
 ||snap.licdn.com^
+||snippets.freshchat.com^
 ||sonar-dfw5-1.xx.fbcdn.net^
 ||sonar-dfw5-2.xx.fbcdn.net^
 ||sonar-dfw5-3.xx.fbcdn.net^
@@ -4515,13 +4769,15 @@
 ||t.seedtag.com^
 ||t7.a.market.xiaomi.com^
 ||t8.dropbox.com^
+||tag-logger.demandbase.com^
 ||tag.demandbase.com^
+||tags.clickagy.com^
 ||tags.creativecdn.com^
 ||tags.pw.adn.cloud^
 ||tags.tiqcdn.com^
+||target.microsoft.com^
 ||targetednotifications-tm.trafficmanager.net^
 ||tc.qzwxrtyk.com^
-||teams.events.data.microsoft.com^
 ||telcel.demdex.net^
 ||telcelanalytics.sc.omtrdc.net^
 ||telegraph.prd.api.discomax.com^
@@ -4567,6 +4823,8 @@
 ||trk.pinterest.com^
 ||trk.storyly.io^
 ||try.abtasty.com^
+||ttd4m7.cdn-settings.appsflyersdk.com^
+||ttd4m7.launches.appsflyersdk.com^
 ||tunnel.googlezip.net^
 ||tvp-ads-log.samsungads.com^
 ||twitter-apk.mundoperfecto.net^
@@ -4641,6 +4899,7 @@
 ||www.everestjs.net^
 ||www.ezojs.com^
 ||www.google-analytics.com^
+||www.googleadservices.com^
 ||www.googletagmanager.com^
 ||www.googletagservices.com^
 ||www.ppmxfa.com^
@@ -4660,6 +4919,7 @@
 ||z6v2p9a8.bkcdn.net^
 ||ziwhpu.cdn-settings.appsflyersdk.com^
 ||ziwhpu.launches.appsflyersdk.com^
+||zn3n5vyia1vy8b4ly-adobe.siteintercept.qualtrics.com^
 ||zn7vbhecbgyszzeei-mercadolibre.siteintercept.qualtrics.com^
 ||zndakdkhvjl953xie-telcelmexico.siteintercept.qualtrics.com^
 ||znefi6i3nkl8bgcta-mercadolibre.siteintercept.qualtrics.com^
@@ -4774,12 +5034,14 @@
 @@||santander.com.mx^
 @@||scotiabank.com^
 @@||scotiabank.com.mx^
+@@||self.events.data.microsoft.com^
 @@||serviciobancomer.com^
 @@||spinbyoxxo.com^
 @@||spinbyoxxo.com.mx^
 @@||stori.com.mx^
 @@||storicard.com^
 @@||tailscale.com^
+@@||teams.events.data.microsoft.com^
 @@||threatmetrix.com^
 @@||trusteer.com^
 @@||tvx.adgrx.com^
